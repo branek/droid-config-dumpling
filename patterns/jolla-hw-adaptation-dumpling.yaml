@@ -5,6 +5,7 @@ Description: Pattern with packages for dumpling HW Adaptation
 Name: jolla-hw-adaptation-dumpling
 Requires:
 - droid-hal-dumpling
+- droid-hal-dumpling-detritus
 - droid-hal-dumpling-img-boot
 - droid-hal-dumpling-kernel-modules
 - droid-config-dumpling-sailfish
